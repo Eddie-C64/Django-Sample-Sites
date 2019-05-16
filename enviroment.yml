@@ -1,0 +1,5 @@
+name: djangoDev
+channels:
+  - defaults
+prefix: /Users/lalo/anaconda3/envs/djangoDev
+
